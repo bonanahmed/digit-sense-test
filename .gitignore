@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+#ignore backend
+digit-sense-back-end/node_modules
+digit-sense-back-end/.env
+digit-sense-back-end/package-lock.json
+#ignore frontend
+digit-sense-front-end/node_modules
+digit-sense-front-end/.env
+digit-sense-front-end/package-lock.json
